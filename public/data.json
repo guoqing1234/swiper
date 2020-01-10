@@ -1,0 +1,23 @@
+{
+    "id": 0,
+    "status": 200,
+    "code": "ok",
+    "dataInfo": [
+        {
+            "id": 0,
+            "url": "1.jpg"
+        },
+        {
+            "id": 1,
+            "url": "2.jpg"
+        },
+        {
+            "id": 2,
+            "url": "3.jpg"
+        },
+        {
+            "id": 3,
+            "url": "4.jpg"
+        }
+    ]
+}

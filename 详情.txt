@@ -1,0 +1,14 @@
+已安装的插件有
+1、swiper  
+2、sass      
+3、antd   
+4、antd-mobile
+5、axios
+6、echarts
+7、bootstrap@3
+     //引用bootstrap的css样式
+     import 'bootstrap/dist/css/bootstrap.min.css';
+     //引用bootstrap的js
+     import 'bootstrap/dist/js/bootstrap';
+8、run eject
+9、react-router-dom
